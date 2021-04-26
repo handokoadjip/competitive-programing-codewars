@@ -1,3 +1,3 @@
-const opposite = number => number * -1;
+const opposite = number => -number;
 
 console.log(opposite(1), -1);
